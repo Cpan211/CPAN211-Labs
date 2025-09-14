@@ -1,4 +1,4 @@
-public class Main {
+public class Lab2_Main {
     public static void main(String[] args) {
         // ==========================
         // OPTION 1: Modern Java (15+)
