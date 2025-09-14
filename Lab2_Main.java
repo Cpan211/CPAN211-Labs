@@ -90,9 +90,9 @@ public class Lab2_Main {
             // Example: "Circle 0.5 blue" → ["Circle", "0.5", "blue"]
             String[] parts = line.split(" ");
 
-            // TODO 1: Extract the information
+            // TODO 1: Extract the information; For size please remember to parse it since parts is a string input
             // String shapeType = parts[0];
-            // double size = ...
+            // double size = ...  
             // String color = ...
 
             // TODO 2: Create the correct object
