@@ -67,7 +67,7 @@ public class Lab2_Main {
             */
 
         // Step 1: Split the big string into separate lines
-        String[] lines = input.split("\\s+");
+        String[] lines = input.split("\n");
 
 		//or 
 
