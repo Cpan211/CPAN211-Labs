@@ -67,7 +67,9 @@ public class Lab2_Main {
             */
 
         // Step 1: Split the big string into separate lines
-        String[] lines = input.split("\n");
+        String[] lines = input.split("\\s+");
+
+		//or 
 
         // Example: After the split, the array 'lines' looks like this:
         // lines[0]  = "Circle 0.5 blue"
