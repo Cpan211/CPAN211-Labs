@@ -60,14 +60,6 @@ public class App extends Application {
         //
         // TODO 4a: Implement btSave.setOnAction(...)
         // TODO 4b: Implement btQuit.setOnAction(...)
-
-        // Example:
-        // btSave.setOnAction(e -> {
-        //     writeToFile(tfNumber.getText(), tfDescription.getText(), tfPrice.getText());
-        //     tfNumber.clear();
-        //     tfDescription.clear();
-        //     tfPrice.clear();
-        // });
         //
         // btQuit.setOnAction(e -> Platform.exit());
 
