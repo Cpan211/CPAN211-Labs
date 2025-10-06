@@ -1,5 +1,3 @@
-package com.mycompany.lab6;
-
 import java.io.FileWriter;
 import java.io.IOException;
 import javafx.application.Application;
@@ -61,7 +59,7 @@ public class App extends Application {
         // TODO 4a: Implement btSave.setOnAction(...)
         // TODO 4b: Implement btQuit.setOnAction(...)
         //
-        // btQuit.setOnAction(e -> Platform.exit());
+    
 
         // ==========================
         // STEP 5: Create and Show Scene
@@ -77,7 +75,7 @@ public class App extends Application {
     // The file name should be "Products.txt".
     //
     // TODO 6: Implement file writing logic.
-    private void writeToFile(String text, String fileName) {
+    private void writeToFile(String text) {
   
     }
 
