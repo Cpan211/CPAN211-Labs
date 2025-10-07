@@ -50,7 +50,7 @@ public class App extends Application {
         // ==========================
         // (a) Save Button:
         //     - Collect input from text fields
-        //     - Call writeToFile(number, description, price)
+        //     - Call writeToFile(text)
         //     - Clear all fields
         //
         // (b) Quit Button:
@@ -76,6 +76,9 @@ public class App extends Application {
     //
     // TODO 6: Implement file writing logic.
     private void writeToFile(String text) {
+
+
+        
   
     }
 
